@@ -3,3 +3,5 @@ Second line added - this is to test additions to file.
 this is the third line - testing to commit or not
 4th line - to check diff
 Wendy is now sat next to me 
+testing staus vs commit
+An ill-considered change
