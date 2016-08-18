@@ -1,2 +1,3 @@
 This is version control with git - first effort :)
 Second line added - this is to test additions to file.
+this is the third line - testing to commit or not
